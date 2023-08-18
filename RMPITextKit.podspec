@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RMPITextKit'
-  s.version          = '0.1.14'
+  s.version          = '0.1.15'
   s.summary          = 'Powerful text framework for iOS to display text based on TextKit.'
   s.homepage         = 'https://github.com/Ryan0520/MPITextKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
