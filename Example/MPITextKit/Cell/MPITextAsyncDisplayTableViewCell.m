@@ -7,7 +7,7 @@
 //
 
 #import "MPITextAsyncDisplayTableViewCell.h"
-#import <MPITextkit/MPITextKit.h>
+#import <RMPITextkit/MPITextKit.h>
 
 #import "UIView+MPIExample.h"
 

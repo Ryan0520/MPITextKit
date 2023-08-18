@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import MPITextKit
+import RMPITextKit
 
 public enum MPIExampleLinkType: Int, CustomDebugStringConvertible {
     case unknown

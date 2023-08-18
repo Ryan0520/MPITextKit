@@ -7,7 +7,7 @@
 //
 
 #import "MPIExampleHelper.h"
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 
 static BOOL DebugEnabled = NO;
 

@@ -7,7 +7,7 @@
 //
 
 #import "MPITextExclusionPathsViewController.h"
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 
 #import "MPIExampleHelper.h"
 

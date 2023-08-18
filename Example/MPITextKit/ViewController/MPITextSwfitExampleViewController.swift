@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import MPITextKit
+import RMPITextKit
 
 @objc
 class MPITextSwfitExampleViewController: UIViewController {

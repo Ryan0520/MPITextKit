@@ -7,7 +7,7 @@
 //
 
 #import "MPITextAttachmentViewController.h"
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 #import <YYImage/YYImage.h>
 
 #import "MPIExampleHelper.h"

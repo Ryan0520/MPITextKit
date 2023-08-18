@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## MPITextKit
+## RMPITextKit
 
 Copyright (c) 2019 tpx <tpx@meitu.com>
 

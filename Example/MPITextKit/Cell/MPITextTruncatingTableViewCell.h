@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

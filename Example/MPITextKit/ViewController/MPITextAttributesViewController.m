@@ -7,7 +7,7 @@
 //
 
 #import "MPITextAttributesViewController.h"
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 #import "MPIExampleHelper.h"
 
 @interface MPITextAttributesViewController () <MPILabelDelegate>

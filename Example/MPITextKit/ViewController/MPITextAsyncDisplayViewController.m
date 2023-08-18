@@ -10,7 +10,7 @@
 #import "MPIExampleNavigationController.h"
 #import "MPITextAsyncDisplayTableViewCell.h"
 #import "MPIExampleHelper.h"
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 
 @interface MPITextAsyncDisplayViewController ()
 

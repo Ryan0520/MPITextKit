@@ -1,11 +1,11 @@
 PODS:
-  - MPITextKit (0.1.13)
+  - RMPITextKit (0.1.14)
   - YYImage (1.0.4):
     - YYImage/Core (= 1.0.4)
   - YYImage/Core (1.0.4)
 
 DEPENDENCIES:
-  - MPITextKit (from `../`)
+  - RMPITextKit (from `../`)
   - YYImage
 
 SPEC REPOS:
@@ -13,13 +13,13 @@ SPEC REPOS:
     - YYImage
 
 EXTERNAL SOURCES:
-  MPITextKit:
+  RMPITextKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MPITextKit: c47e848a1683c45842b8cd687a4fde9d59735605
+  RMPITextKit: c5be8c29a4991771041b0668e1183730ee62b0de
   YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
 
-PODFILE CHECKSUM: 9389e39045614bb91ce9230af3b69e00dbab997f
+PODFILE CHECKSUM: e635ec4af34abf246d520955ae90c55fa5e85da7
 
 COCOAPODS: 1.12.1

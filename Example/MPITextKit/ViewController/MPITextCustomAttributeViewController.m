@@ -7,7 +7,7 @@
 //
 
 #import "MPITextCustomAttributeViewController.h"
-#import <MPITextKit/MPITextKit.h>
+#import <RMPITextKit/MPITextKit.h>
 #import "MPIExampleAttachment.h"
 #import "MPIExampleBackground.h"
 #import "MPIExampleHelper.h"
