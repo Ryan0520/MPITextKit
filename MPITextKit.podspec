@@ -7,27 +7,14 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MPITextKit'
-  s.version          = '0.1.13'
+  s.name             = 'RMPITextKit'
+  s.version          = '0.1.14'
   s.summary          = 'Powerful text framework for iOS to display text based on TextKit.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
-  s.homepage         = 'https://github.com/meitu/MPITextKit'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/Ryan0520/MPITextKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'tpphha' => 'tpphha@gmail.com' }
-  s.source           = { :git => 'https://github.com/meitu/MPITextKit.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+  s.author           = { 'ryan' => 'coderryan2016@gmail.com' }
+  s.source           = { :git => 'https://github.com/Ryan0520/MPITextKit.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
-
   s.source_files = 'Sources/**/*.{h,m}'
-
   s.frameworks = 'UIKit', 'CoreFoundation','CoreText', 'QuartzCore', 'Accelerate'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
