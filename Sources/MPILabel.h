@@ -252,6 +252,8 @@ Whether or not the text is truncated. It's expensive if text not rendered.
 /// To hide menu.
 - (void)hideMenu;
 
+/// To hide selection
+- (void)endSelection;
 @end
 
 @protocol MPILabelDelegate <NSObject>
